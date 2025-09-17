@@ -21,27 +21,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <!-- Product / PM Tools -->
-  <img src="https://img.shields.io/badge/Tools-Jira%20%7C%20Confluence%20%7C%20Notion%20%7C%20Figma%20%7C%20Miro-blue?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,html,css,mongodb,mysql,postgres" />
-</p>
-
-<p align="center">
-  <!-- Cloud & Infra -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git" />
-</p>
-
-<p align="center">
-  <!-- Data / AI -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,spark,hadoop" />
-</p>
+## 🛠️ Core Skills
+- **Product Strategy**: Roadmaps, PRDs, Go-to-Market, KPIs  
+- **Technical Fluency**: Python, Java, C++, React, Node.js, AWS, Kubernetes  
+- **Data/AI**: A/B Testing, Analytics, ML productization  
+- **Collaboration**: Figma, Jira, Notion, Confluence  
 
 ---
 
