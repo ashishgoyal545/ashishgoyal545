@@ -29,6 +29,13 @@
 
 ---
 
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,aws,kubernetes,mongodb,git,linux,docker,spark,hadoop" />
+</p>
+
+---
+
 ## 📂 Featured Case Studies
 - 🍽 [Uber Eats – Taste Profile Engine](https://github.com/ashishgoyal545/product-case-studies/tree/main/uber-eats-taste-profile-engine)  
 - 🎵 [Spotify – Social Listening](https://github.com/ashishgoyal545/product-case-studies/tree/main/spotify-social-listening)  
