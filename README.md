@@ -49,6 +49,8 @@
 - 💼 [LinkedIn – Job Match Relevance](https://github.com/ashishgoyal545/product-case-studies/tree/main/linkedin-job-match-relevance)  
 - 📑 [PRDs & Roadmaps](https://github.com/ashishgoyal545/prds-and-roadmaps)  
 
+<p align="center"> <a href="https://github.com/ashishgoyal545/product-case-studies"> <img src="https://img.shields.io/badge/Case%20Studies-Uber%20Eats%20|%20Spotify%20|%20LinkedIn-blueviolet?style=for-the-badge&logo=readthedocs&logoColor=white" /> </a> <br><br> <a href="https://github.com/ashishgoyal545/PRDs-and-Roadmaps"> <img src="https://img.shields.io/badge/PRDs%20%26%20Roadmaps-Templates%20|%20AI%20|%20FinTech-green?style=for-the-badge&logo=bookstack&logoColor=white" /> </a> <br><br> <a href="https://github.com/ashishgoyal545/Analytics-and-Experiments"> <img src="https://img.shields.io/badge/Analytics%20%26%20Experiments-Funnels%20|%20A%2FB%20Tests-orange?style=for-the-badge&logo=chart-bar&logoColor=white" /> </a> </p>
+
 ---
 
 ## 🧩 Signature Projects
