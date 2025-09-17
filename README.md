@@ -21,31 +21,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🚀 Product Management
-- **Frameworks:** PRDs, Roadmaps, OKRs, Growth Loops  
-- **Tools:** Jira, Confluence, Notion, Figma, Miro, Trello  
-- **Analytics:** A/B Testing, Funnel Analysis, Mixpanel, Google Analytics  
-
-### 🧠 Data & AI
-- **Languages/Libs:** Python (Pandas, NumPy, SciPy), SQL, Jupyter  
-- **AI/ML:** OpenAI, Hugging Face, TensorFlow (PM-level usage), Scikit-learn  
-- **Experiments:** A/B test design, sample size calculators, metrics dashboards  
-
-### ☁️ Cloud & Infra
-- **Platforms:** AWS (EC2, S3, Lambda), GCP, Azure (basic)  
-- **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD pipelines  
-- **Big Data:** Spark, Hadoop, Kafka (hands-on academic/RA projects)  
-
-### 💻 Software Engineering
-- **Languages:** Python, Java, C++, JavaScript (Node.js, React.js)  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Frameworks:** Express, Flask, Spring Boot  
-
-### 🎨 UI / UX
-- **Design Tools:** Figma, Canva, Adobe XD  
-- **Skills:** Wireframing, User Journey Mapping, Usability Testing  
+## 🛠️ Core Skills
+- **Product Strategy**: Roadmaps, PRDs, Go-to-Market, KPIs  
+- **Technical Fluency**: Python, Java, C++, React, Node.js, AWS, Kubernetes  
+- **Data/AI**: A/B Testing, Analytics, ML productization  
+- **Collaboration**: Figma, Jira, Notion, Confluence  
 
 ---
 
